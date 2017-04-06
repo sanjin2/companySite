@@ -1,0 +1,225 @@
+body{
+	padding:0px ;
+	margin: 0px;
+	font-family: "微软雅黑";
+}
+
+
+.header{
+	width:1440px ;
+	height: 82px;
+	background-color:red ;
+	position: relative;
+	margin:0px auto ;
+}
+.header img{
+	padding-top:15px ;
+	padding-left:25px ;
+}
+.header1{
+	width: 400px;
+	height:40px ;
+	/*background-color:blue ;*/
+	position: absolute;
+	top:0px ;
+	right: 80px;
+	margin-bottom: 20px;
+	padding-top:7px ;
+	
+}
+.header1 span{
+	color:white ;
+}
+.header1 input{
+	width: 250px;
+	height:40px ;
+	background-image:url(../img/page1/搜索.png) ;
+	background-repeat:no-repeat ;
+	background-size: 40px;
+	background-position-x: 204px;
+	border-radius:40px ;
+	border: 0px;
+	
+	
+}
+
+.header2{
+	width: 900px;
+	height:40px ;
+	/*background-color:grey ;*/
+	position: absolute;
+	right: 80px;
+	top: 40px;
+}
+.header2 a{
+	color: white;
+}
+.header2 ul{
+	
+}
+.header2 ul li{
+	list-style: none;
+	float: left;
+	margin-right: 30px;
+	line-height: 40px;
+	text-align: center;
+	color: white;
+	
+}
+/*.erji{
+	width:1440px ;
+	height: 500px;
+	background-color: rgba(0,0,0,0.2);
+}*/
+.banner{
+	width:1440px ;
+	margin:0px auto ;
+}
+.jieshao{
+	width: 1440px;
+	margin:0px auto ;
+}
+.blank1{
+	width: 1440px;
+	height: 97px;
+	margin:0px auto ;
+	/*background-color: grey;*/
+	padding-top: 23px;
+}
+.blank1 .balnk1-1{
+	width:593px ;
+	height: 51px;
+	/*background-color: blueviolet;*/
+	margin:0px auto ;
+}
+.blank1 .balnk1-1 ul{
+	margin: 0px;
+	padding: 0px;
+}
+.blank1 .balnk1-1 ul li{
+	list-style: none;
+	float: left;
+	/*background-color:blue ;*/
+}
+.blank1 .balnk1-1 ul li img{
+	margin-right: 30px;
+}
+.blank2{
+	width: 1147px;
+	height:195px ;
+	/*background-color:grey ;*/
+	margin:0px auto ;
+	margin-top: 80px;
+}
+.blank2 ul{
+	margin: 0px;
+	padding: 0px;
+}
+.blank2 ul li{
+	list-style: none;
+	float:left ;
+	margin-left:15px ;
+}
+.blank2 ul li p{
+	margin-top: 10px;
+}
+.blank3{
+	width: 1440px;
+	height: 61px;
+	/*background-color:grey ;*/
+	border-bottom:1px solid gray ;
+	margin:0px auto ;
+}
+.content{
+	width: 1148px;
+	height: 493px;
+	/*background-color: gray;*/
+	margin:0px auto ;
+	margin-top:61px ;
+	margin-bottom: 71px;
+}
+.content ul{
+	margin: 0px;
+	padding:0px ;
+	
+}
+.content ul li{
+	list-style: none;
+	float: left;
+	margin-right: 17px;
+}
+.content2{
+	width: 1137px;
+	height: 205px;
+	/*background-color: greenyellow;*/
+	margin:0px auto ;
+	padding-left: 50px;
+	padding-top:40px ;
+}
+.content2 ul {
+	margin: 0px;
+	padding:0px ;
+	/*line-height:205px ;*/
+}
+.content2 ul li{
+	list-style:none ;
+	float: left;
+	/*width:25% ;*/
+	margin-left:10px ;
+	border-right: 1px solid gray;
+	
+}
+.content2 ul li:last-child{
+	border: 0px;
+}
+
+.content2 ul li img{
+	margin-bottom:20px ;
+}
+.dazi{
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+.blank4{
+	width: 1116px;
+	height:234px;
+	/*background-color: orangered;*/
+	margin:0px auto ;
+}
+#ejcd{
+	position: absolute;
+	background-color: white;
+	left:150px ;
+	top:80px ;
+	/*width:1440px ;*/
+	color:black ;
+}
+.blank4 ul{
+	float: left;
+	padding-top: 40px;
+	padding-left: 52px;
+}
+.blank4 ul li{
+	list-style:none ;
+	/*font-size:16px ;*/
+	color:#8D8D97 ;
+	
+}
+.footer{
+	width:1440px ;
+	height: 59px;
+	background-color: #E4E4E4;
+	margin: 0px auto;
+}
+.footer p{
+	padding-top: 28px;
+}
+
+

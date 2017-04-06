@@ -1,0 +1,149 @@
+body{
+	padding:0px ;
+	margin: 0px;
+	font-family: "微软雅黑";
+}
+.header{
+	width:1440px ;
+	height: 82px;
+	background-color:red ;
+	position: relative;
+	margin:0 auto ;
+}
+.header img{
+	padding-top:15px ;
+	padding-left:25px ;
+}
+.header1{
+	width: 400px;
+	height:40px ;
+	/*background-color:blue ;*/
+	position: absolute;
+	top:0px ;
+	right: 80px;
+	margin-bottom: 20px;
+	padding-top:7px ;
+	
+}
+.header1 span{
+	color:white ;
+}
+.header1 input{
+	width: 250px;
+	height:40px ;
+	background-image:url(../img/page1/搜索.png) ;
+	background-repeat:no-repeat ;
+	background-size: 40px;
+	background-position-x: 204px;
+	border-radius:40px ;
+	border: 0px;
+	
+	
+}
+
+.header2{
+	width: 900px;
+	height:40px ;
+	/*background-color:grey ;*/
+	position: absolute;
+	right: 80px;
+	top: 40px;
+}
+.header2 a{
+	color: white;
+}
+.header2 ul{
+	
+}
+.header2 ul li{
+	list-style: none;
+	float: left;
+	margin-right: 30px;
+	line-height: 40px;
+	text-align: center;
+	color: white;
+}
+.blank1{
+	width: 1440px;
+	
+	margin:0px auto ;
+	background-color:grey ;
+}
+.blank1 img{
+	
+}
+.blank2{
+	width: 1440px;
+	height: 260px;
+	/*background-color: gray;*/
+	margin:0px auto ;
+}
+.blank2 p{
+}
+.pclass{
+	margin-left: 120px;
+	margin-bottom:3px ;
+}
+.pclass1{
+	padding-top: 40px;
+	padding-bottom: 25px;
+}
+
+.blank3{
+	width:1200px ;
+	height: 176px;
+	/*background-color: blueviolet;*/
+	margin:0px auto ;
+	margin-top: 20px;
+	border:1px solid grey ;
+}
+.blank3 .blank-l{
+	width:180px ;
+	height: 174px;
+	/*background-color: blue;*/
+	float: left;
+}
+.blank3 .blank-r{
+	width:1018px ;
+	height: 174px;
+	/*background-color: yellow;*/
+	float: left;
+	padding-top:60px ;
+}
+.blank3 .blank-r p{
+	padding-left:20px ;
+	margin-bottom:10px ;
+}
+
+.blank3-b{
+	margin-bottom:45px ;
+}
+
+.blank4{
+	width: 1116px;
+	height:234px;
+	/*background-color: orangered;*/
+	margin:0px auto ;
+}
+.blank4 ul{
+	float: left;
+	padding-top: 40px;
+	padding-left: 52px;
+}
+.blank4 ul li{
+	list-style:none ;
+	color: #8D8D97;
+	/*font-size:16px ;*/
+	
+}
+.footer{
+	width:1440px ;
+	height: 59px;
+	background-color: #E4E4E4;
+	margin:0px auto ;
+}
+.footer p{
+	padding-top: 28px;
+}
+
+

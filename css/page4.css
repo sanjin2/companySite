@@ -1,0 +1,159 @@
+body{
+	padding:0px ;
+	margin: 0px;
+	font-family: "微软雅黑";
+}
+.header{
+	width:1440px ;
+	height: 82px;
+	background-color:red ;
+	position: relative;
+	margin:0 auto ;
+}
+.header img{
+	padding-top:15px ;
+	padding-left:25px ;
+}
+.header1{
+	width: 400px;
+	height:40px ;
+	/*background-color:blue ;*/
+	position: absolute;
+	top:0px ;
+	right: 80px;
+	margin-bottom: 20px;
+	padding-top:7px ;
+	
+}
+.header1 span{
+	color:white ;
+}
+.header1 input{
+	width: 250px;
+	height:40px ;
+	background-image:url(../img/page1/搜索.png) ;
+	background-repeat:no-repeat ;
+	background-size: 40px;
+	background-position-x: 204px;
+	border-radius:40px ;
+	border: 0px;
+	
+	
+}
+
+.header2{
+	width: 900px;
+	height:40px ;
+	/*background-color:grey ;*/
+	position: absolute;
+	right: 80px;
+	top: 40px;
+}
+.header2 a{
+	color: white;
+}
+.header2 ul{
+	
+}
+.header2 ul li{
+	list-style: none;
+	float: left;
+	margin-right: 30px;
+	line-height: 40px;
+	text-align: center;
+	color: white;
+}
+
+
+.banner{
+	width:1440px ;
+	margin:0px auto ;
+	
+}
+.nav{
+	width:1440px ;
+	height: 148px;
+	/*background-color: grey;*/
+	margin: 0px auto;
+	overflow: hidden;
+	
+}
+.nav1{
+	width: 229px;
+	height: 33px;
+	/*background-color:yellow ;*/
+	margin-top:50px ;
+	margin-left: 100px;
+	line-height:33px ;
+	/*overflow: visible;*/
+	
+}
+.nav1 ul{
+	margin:0px ;
+	padding: 0px;
+}
+.nav1 ul li{
+	list-style: none;
+	float: left;
+	margin-right:16px ;
+}
+.ditu{
+	width: 1149px;
+	height:490px ;
+	/*background-color: aliceblue;*/
+	margin:0px auto ;
+}
+.ditu-l{
+	width: 574px;
+	height:490px ;
+	/*background-color: blue;*/
+	float: left;
+}
+.ditu-l p{
+	padding-bottom: 20px;
+}
+.ditu-r{
+	width: 574px;
+	height:490px ;
+	/*background-color: yellow;*/
+	float: left;
+}
+.ditu-r p{
+	padding-bottom: 20px;
+}
+.jianju{
+	width: 1149px;
+	height:100px ;
+	/*background-color: aliceblue;*/
+	margin:0px auto ;
+}
+
+
+.blank4{
+	width: 1116px;
+	height:234px;
+	/*background-color: orangered;*/
+	margin:0px auto ;
+}
+.blank4 ul{
+	float: left;
+	padding-top: 40px;
+	padding-left: 52px;
+}
+.blank4 ul li{
+	list-style:none ;
+	color: #8D8D97;
+	/*font-size:16px ;*/
+	
+}
+.footer{
+	width:1440px ;
+	height: 59px;
+	background-color: #E4E4E4;
+	margin:0px auto ;
+}
+.footer p{
+	padding-top: 28px;
+}
+
+

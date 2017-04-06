@@ -1,0 +1,306 @@
+body{
+	padding:0px ;
+	margin: 0px;
+	font-family: "微软雅黑";
+}
+.header{
+	width:1440px ;
+	height: 82px;
+	background-color:red ;
+	position: relative;
+	margin:0 auto ;
+}
+.header img{
+	padding-top:15px ;
+	padding-left:25px ;
+}
+.header1{
+	width: 400px;
+	height:40px ;
+	/*background-color:blue ;*/
+	position: absolute;
+	top:0px ;
+	right: 80px;
+	margin-bottom: 20px;
+	padding-top:7px ;
+	
+}
+.header1 span{
+	color:white ;
+	float: right;
+}
+.header1 input{
+	width: 200px;
+	height:40px ;
+	background-image:url(../img/page1/搜索.png) ;
+	background-repeat:no-repeat ;
+	background-size: 40px;
+	background-position-x: 204px;
+	/*border-radius:40px ;*/
+	border: none;
+	padding: 0px;
+	outline: none;
+	
+}
+.glyphicon-search{
+	color: orange;
+}
+
+
+.header1 button{
+	width: 40px;
+	height:40px ;
+	margin: 0px;
+	padding:0px ;
+	border: 0px;
+	outline: none;
+}
+
+.header2{
+	width: 900px;
+	height:40px ;
+	/*background-color:grey ;*/
+	position: absolute;
+	right: 80px;
+	top: 40px;
+}
+ .header2 a{
+	color: white;
+}
+
+.header2 a:link{
+	color: white;
+}
+.header2 ul{
+	
+}
+.header2 ul li{
+	list-style: none;
+	float: left;
+	margin-right: 30px;
+	line-height: 40px;
+	text-align: center;
+	color: white;
+	font-family: "微软雅黑";
+}
+.header2 ul li ul{
+	z-index:999 ;
+}
+.header2 ul li ul li{
+	list-style: none;
+	float: none;
+	/*font: "宋体" ;*/
+}
+.banner{
+	width:1440px ;
+	/*height: 576px;*/
+	/*background-color:yellow ;*/
+	overflow: hidden;
+	margin:0px auto ;
+}
+.blank1{
+	width:1440px ;
+	height: 200px;
+	/*background-color: blueviolet;*/
+	margin:0px auto ;
+}
+.shangyi:hover{
+	position: relative;
+	left: 3px;
+	bottom:3px ;
+}
+.blank1 ul{
+	margin: 15px;
+	padding: 0px;
+}
+.blank1 ul li{
+	list-style: none;
+	float: left;
+	/*margin-right: 15px;*/
+	margin-left: 10px;
+	/*padding-right: 10px;*/
+	font: "微软雅黑";
+}
+.blank1 ul li img{
+	width: 450px;
+	height: 200px;
+	/*padding-right: 40px;*/
+}
+.connent{
+	width: 1440px;
+	height:99px ;
+	background-color: #F5F5F5;
+	margin:0px auto ;
+}
+.connent ul{
+	margin: 0px ;
+	padding: 0px;
+	/*align-content: center;*/
+	
+}
+.connent ul li{
+	list-style:none ;
+	float: left;
+	margin-right: 50px;
+	line-height:99px ;
+	padding-left:150px ;
+	font-size: 25px;
+	font: "微软雅黑";
+	
+}
+.connent ul li img{
+	float:left ;
+}
+
+.blank2{
+	width:545px ;
+	height: 97px;
+	/*background-color: grey;*/
+	margin:0px auto ;
+	
+}
+.blank2 ul {
+	/*margin-top: 15px;*/
+	
+}
+.blank2 ul li{
+	padding-top: 15px;
+	padding-left: 35px;
+	list-style: none;
+	font: "微软雅黑";
+}
+.blank3{
+	width: 1147px;
+	height:189px;
+	/*background-color: lightcoral;*/
+	margin:0px auto ;
+}
+.blank3 ul{
+	margin: 0px;
+	padding:0px ;
+}
+.blank3 ul li{
+	list-style:none ;
+	float: left;
+	margin-right: 15px;
+	font: "微软雅黑";
+	
+}
+.blank3 ul li p{
+	color:#92E4FF ;
+}
+.blank4{
+	width: 1116px;
+	height:234px;
+	/*background-color: orangered;*/
+	margin:0px auto ;
+}
+.blank4 ul{
+	float: left;
+	padding-top: 40px;
+	padding-left: 52px;
+}
+.blank4 ul li{
+	list-style:none ;
+	color: #8D8D97;
+	/*font-size:16px ;*/
+	font: "微软雅黑";
+	
+}
+.footer{
+	width:1440px ;
+	height: 59px;
+	background-color: #E4E4E4;
+	margin:0px auto ;
+}
+.footer p{
+	padding-top: 28px;
+}
+
+/*弹跳窗口*/
+.tiantiao{
+	width: 342px;
+	height: 152px;
+	background-color: #AEDCFE;
+	position: fixed;
+	right: 100px;
+	top:500px ;
+}
+.tiantiao1{
+	width: 342px;
+	height: 31px;
+	background-color: #4BB5EF;
+	/*float: right;*/
+}
+.tiantiao1 input{
+	float: right;
+}
+.tiantiao2{
+	width: 342px;
+	height: 85px;
+	/*background-color: deepskyblue;*/
+}
+.tiantiao2-l{
+	width: 91px;
+	height: 85px;
+	background-color:white;
+	float: left;
+	text-align: center;
+	line-height: 85px;
+}
+.tiantiao2-r{
+	width: 251px;
+	height: 85px;
+	background-color: white;
+	float: left;
+}
+.tiantiao2-r p{
+	margin-bottom:5px ;
+	/*margin-bottom: 10px;*/
+	margin-left: 10px;
+}
+.tt{
+	margin-top: 25px;
+}
+.tiantiao3{
+	width: 342px;
+	height: 31px;
+	background-color: #AEDCFE;
+}
+.tiantiao3-r{
+	width: 170px;
+	height:31px;
+	float: right;
+}
+.tiantiao3 input{
+	/*margin-left: 35px;*/
+	margin-top:5px ;
+	margin-left: 10px;
+	/*float: right;*/
+}
+/*箭头*/
+.jiantou{
+	width:40px ;
+	height:40px ;
+	background-color:rgba(0,0,0,0.4) ;
+	border-radius:100% ;
+	text-align: center;
+	line-height:40px ;
+	position: fixed;
+	right: 10px;
+	bottom:10px ;
+	font-size: 30px;
+}
+.jiantou a{
+	margin:0px ;
+	padding: 0px;
+}
+.glyphicon{
+	position: static;
+	margin-top: 6px;
+	margin-right: 2px;
+}
+
+
+
+
