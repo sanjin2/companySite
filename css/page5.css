@@ -4,7 +4,7 @@ body{
 	font-family: "微软雅黑";
 }
 .header{
-	width:1440px ;
+	/*width:1440px ;*/
 	height: 82px;
 	background-color:red ;
 	position: relative;
@@ -64,11 +64,11 @@ body{
 	color: white;
 }
 .nav{
-	width:1440px ;
+	/*width:1440px ;*/
 	height: 75px;
-	background-color: grey;
+	/*background-color: grey;*/
 	margin: 0px auto;
-  background-image: url(../img/page5/xinwen.png);	
+  /*background-image: url(../img/page5/xinwen.png);*/	
 	
 }
 .nav1{
@@ -176,7 +176,7 @@ body{
 	
 }
 .footer{
-	width:1440px ;
+	/*width:1440px ;*/
 	height: 59px;
 	background-color: #E4E4E4;
 	margin:0px auto ;

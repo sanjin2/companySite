@@ -4,7 +4,7 @@ body{
 	font-family: "微软雅黑";
 }
 .header{
-	width:1440px ;
+	/*width:1440px ;*/
 	height: 82px;
 	background-color:red ;
 	position: relative;
@@ -66,9 +66,12 @@ body{
 
 
 .banner{
-	width:1440px ;
+	/*width:1440px ;*/
 	margin:0px auto ;
 	
+}
+.banner img{
+	width: 100%;
 }
 .nav{
 	width:1440px ;
@@ -147,7 +150,7 @@ body{
 	
 }
 .footer{
-	width:1440px ;
+	/*width:1440px ;*/
 	height: 59px;
 	background-color: #E4E4E4;
 	margin:0px auto ;
